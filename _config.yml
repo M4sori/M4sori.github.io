@@ -1,6 +1,6 @@
 # Site settings
 title: "Ángel Gálvez Velasco"
-description: "I am currently studying cybersecurity following the \"Hack the box Academy\" training program. Specifically I am focusing on everything relating to pentesting (blue team and red team). Although I am also very interested in the area of anti-fraud and brand protection."
+description: "I am currently training in the area of cybersecurity following the Hack the Box Academy training program. Specifically, I am focusing on everything related to pentesting (blue team and red team), as well as fraud prevention and brand protection."
 
 # Build settings
 markdown: kramdown
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/%C3%A1ngel-g%C3%A1lvez-velasco-978b66253/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://M4sori.github.io"
+  resume_website_url:           "https://m4sori.github.io"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
