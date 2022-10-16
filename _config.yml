@@ -1,8 +1,7 @@
 # Site settings
 title: "Ángel Gálvez Velasco"
-description: "I am currently studying cybersecurity following the "Hack the box Academy" training program. 
-Specifically I am focusing on everything relating to pentesting (blue team and red team).
-Although I am also very interested in the area of anti-fraud and brand protection.
+description: "I am currently studying cybersecurity following the \"Hack the box Academy\" training program. Specifically I am focusing on everything relating to pentesting (blue team and red team). Although I am also very interested in the area of anti-fraud and brand protection.
+
 # Build settings
 markdown: kramdown
 sass:
